@@ -1,0 +1,2 @@
+演示Python对SQLite数据库的操作，以及命令行式菜单的工作原理和实现。
+首先使用SQLite Database Browser创建SQLite数据库data.db，然后创建一个数据表addressList，最后在数据表addressList中创建字段id（INTEGER PRIMARY KEY类型）、name（TEXT类型）、sex（TEXT类型）、age（NUMERIC类型）、department（TEXT类型）、telephone（TEXT类型）和qq（TEXT类型）。然后编写下面的程序，运行后根据不同的命令进入查看、删除、增加等不同的功能或退出程序。
